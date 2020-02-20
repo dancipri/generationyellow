@@ -1,0 +1,36 @@
+/* comentario */
+/*  sintaxe:
+    elemento{propeidade:valor;
+        propiredade} */
+/* seletor de elemento */
+h1 {
+    color: indigo;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Pacifico', cursive;
+}
+/* seletor de id */
+#para{
+    color: red;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+}
+#parb{
+    color: royalblue;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+
+}
+#parc{
+    background-color: skyblue;
+    color: white;
+    font-family:'Indie Flower', cursive;
+}
+
+.grupo1{
+    color: violet;
+    font-size: 50px;
+
+}
